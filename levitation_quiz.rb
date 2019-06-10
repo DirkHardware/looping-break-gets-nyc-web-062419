@@ -6,5 +6,3 @@ def levitation_quiz
     break if spell == "Wingardium Leviosa"
   end
 end
-
-levitation_quiz
